@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning with Double Q-Learning
 #### By Lilia BEN BACCAR and Sarah LAUZERAL
-Review, summarization and implementation of the Google DeepMind "Deep Reinforcement Learning with Double Q-Learning" (Hasselt and al, 2015)
+Review, summarization and implementation of the Google DeepMind "Deep Reinforcement Learning with Double Q-Learning" (Hasselt and al, 2015) paper
 
 ### Files
 Here are the description of each file.
