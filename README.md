@@ -11,5 +11,4 @@ Here are the description of each file.
 
 # References
 > Hado van Hasselt, Arthur Guez, and David Silver. *Deep Reinforcement Learning with Double
-Q-learning*. In: CoRR abs/1509.06461 (2015). arXiv: 1509.06461. url: http://arxiv.
-org/abs/1509.06461.
+Q-learning*. In: CoRR abs/1509.06461 (2015). arXiv: 1509.06461. url: http://arxiv.org/abs/1509.06461.
